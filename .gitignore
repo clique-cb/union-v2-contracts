@@ -6,6 +6,7 @@ out/
 .DS_*
 node_modules/
 .openzeppelin
+.vscode
 typechain-types/
 coverage/
 docs
